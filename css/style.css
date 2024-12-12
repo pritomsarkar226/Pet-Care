@@ -46,3 +46,20 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+@font-face {
+    font-family:'Poppins-Medium';
+    src: url(../fonts/Poppins-Medium.ttf);
+  }
+.container{
+	margin-left: 140px;
+	margin-right: 200px;
+}
+.container-fluid{
+	background: #daac00;
+}
+.nav-item a{
+	font-family: 'Poppins-Medium';
+	margin-left: 40px;
+	font-size: 30px;
+}
