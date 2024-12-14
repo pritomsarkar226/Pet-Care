@@ -59,8 +59,14 @@ table {
     font-family:'Poppins-Regular';
     src: url(../fonts/Poppins-Regular.ttf);
   }
-
-
+  @font-face {
+    font-family:'Poppins-Bold';
+    src: url(../fonts/Poppins-Bold.ttf);
+  }
+.wrap{
+	margin-left: 140px;
+	margin-right: 140px;
+}
 section{
 	margin-bottom: 100px;
 }
@@ -165,6 +171,7 @@ section{
 .animal-love{
 	font-family: 'Poppins-Regular';
 	font-size: 28px;
+	margin-top: 70px;
 }
 .animal-button{
 	margin-top: 20px;
@@ -176,8 +183,15 @@ section{
 	color: #ffffff;
 }
 
-
-.wrap{
-	margin-left: 140px;
-	margin-right: 140px;
+.care-section h2{
+	font-family: 'Poppins-Bold';
+	font-size: 50px;
+	color: #ffffff;
+	padding-top: 100px;
+}
+.care-section h3{
+	font-family: 'Poppins-Regular';
+	font-size: 25px;
+	color: #ffffff;
+	padding-bottom: 70px;
 }
