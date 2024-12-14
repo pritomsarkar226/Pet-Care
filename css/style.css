@@ -169,21 +169,24 @@ section{
 	font-family: 'Poppins-SemiBold';
 	font-size: 50px;
 	color: #313243;
-	padding-bottom: 40px;
+	padding-bottom: 30px;
+	margin-top: 100px;
 }
-.animal-love{
+.animal-love h3{
 	font-family: 'Poppins-Regular';
 	font-size: 28px;
-	margin-top: 70px;
+	margin-top: 5px;
 }
 .animal-button{
+	font-family: 'Poppins-SemiBold' ;
 	margin-top: 20px;
 	border: none;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	border-radius: 10px;
 	background: #fcc302;
 	color: #ffffff;
+	font-size: 20px;
 }
 
 .care-section h2{
@@ -253,22 +256,74 @@ section{
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 	.wrap{
-		margin-left: 80px;
-		margin-right: 80px;
+		margin-left: 30px;
+		margin-right: 10px;
 	}
 	.main-title{
-		margin-top: 200px;
+		margin-top: 30px;
 	  }
 	  .main-title h2{
 		font-family: 'Poppins-SemiBold';
-		font-size: 40px;
+		font-size: 50px;
 		color: #ffffff;
 	  }
 	  .main-title h3{
 		font-family: 'Poppins-Regular';
-		font-size: 18px;
+		font-size: 20px;
 		color: #ffffff;
 	  }
+	  .title-img img{
+		padding-left: 30px;
+		padding-top: 0px;
+	  }
+    /**/
+	  .animal-love h2{
+		font-family: 'Poppins-SemiBold';
+		font-size: 50px;
+		color: #313243;
+		padding-bottom: 40px;
+	}
+	.animal-love{
+		font-family: 'Poppins-Regular';
+		font-size: 28px;
+		margin-top: 70px;
+	}
+	.animal-button{
+		margin-top: 20px;
+		border: none;
+		padding-top: 10px;
+		margin-bottom: 20px;
+		border-radius: 10px;
+		background: #fcc302;
+		color: #ffffff;
+	}
+	/**/
+	.as-veterinarin h2{
+		font-family: 'Poppins-SemiBold' ;
+		font-size: 50px;
+		color: #1a1a1a;
+		padding-top: 80px;
+		text-align: center;
+	}
+	.as-veterinarin h3{
+		font-family: 'Poppins-Regular';
+		font-size: 30px;
+		text-align: center;
+		padding-top: 20px;
+	
+	}
+	.our-service{
+		font-family: 'Poppins-SemiBold' ;
+		margin-top: 20px;
+		border: none;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		border-radius: 10px;
+		background: #fcc302;
+		color: #ffffff;
+		font-size: 20px;
+		float: left;
+	}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -280,7 +335,9 @@ section{
 @media only screen and (min-width: 768px) {...}
 
 /* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {...}
+@media only screen and (min-width: 992px) {
+	
+}
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {...}
