@@ -63,6 +63,9 @@ table {
     font-family:'Poppins-Bold';
     src: url(../fonts/Poppins-Bold.ttf);
   }
+.cl{
+	clear: both;
+}
 .wrap{
 	margin-left: 140px;
 	margin-right: 140px;
@@ -216,3 +219,68 @@ section{
 	padding-top: 10px;
 	padding-bottom: 90px;
 }
+.as-veterinarin h2{
+	font-family: 'Poppins-SemiBold' ;
+	font-size: 50px;
+	color: #1a1a1a;
+	padding-top: 80px;
+	text-align: end;
+}
+.as-veterinarin h3{
+	font-family: 'Poppins-Regular';
+	font-size: 30px;
+	text-align: end;
+	padding-top: 20px;
+
+}
+.our-service{
+	font-family: 'Poppins-SemiBold' ;
+	float: right;
+	margin-top: 20px;
+	border: none;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-radius: 10px;
+	background: #fcc302;
+	color: #ffffff;
+	font-size: 20px;
+}
+.cl{
+	clear: both;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+	.wrap{
+		margin-left: 80px;
+		margin-right: 80px;
+	}
+	.main-title{
+		margin-top: 200px;
+	  }
+	  .main-title h2{
+		font-family: 'Poppins-SemiBold';
+		font-size: 40px;
+		color: #ffffff;
+	  }
+	  .main-title h3{
+		font-family: 'Poppins-Regular';
+		font-size: 18px;
+		color: #ffffff;
+	  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
