@@ -303,6 +303,35 @@ section{
 	text-align: center;
 	padding-bottom: 30px;
 }
+.vetcare-team h2{
+	font-family:'Poppins-Bold';
+	font-size: 28px;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.vetcare-team{
+	text-align: center;
+}
+.vetcare-team h3{
+	font-family: 'Poppins-Regular';
+	font-size: 23px;
+	padding-bottom: 10px;
+}
+.vetcare-team ul li{
+	text-align: center;
+	display: inline-block;
+	
+}
+.vetcare-team ul li a{
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	background: #daac00;
+	border-radius: 100%;
+	color: #ffffff;
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 	.wrap{
