@@ -301,7 +301,7 @@ section{
 	font-family: 'Poppins-Regular';
 	font-size: 28px;
 	text-align: center;
-
+	padding-bottom: 30px;
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
