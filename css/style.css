@@ -252,7 +252,43 @@ section{
 	clear: both;
 }
 
+.title-here h2{
+	padding-top: 100px;
+	text-align: center;
+	font-family:'Poppins-Bold';
+	font-size: 50px;
+	color: #ffffff;
 
+}
+.title-here h3{
+	font-size: 24px;
+	font-family: 'Poppins-Regular';
+	padding-top: 20px;
+	color: #ffffff;
+	text-align: center;
+	padding-bottom: 50px;
+
+}
+.title-image h2{
+	font-family:'Poppins-Bold';
+	font-size: 25px;
+	color: #ffffff;
+	padding-top: 10px;
+	text-align: center;
+}
+.title-image button{
+	background: #00B4CC;
+	border: none;
+	border-radius: 20px;
+	margin-top: 10px;
+	margin-left: 37%;
+	margin-right: 35%;
+	font-size: 23px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #ffffff;
+	margin-bottom: 90px;
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 	.wrap{
@@ -332,7 +368,9 @@ section{
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {...}
+@media only screen and (min-width: 768px) {
+
+}
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
@@ -340,4 +378,6 @@ section{
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {...}
+@media only screen and (min-width: 1200px) {
+
+}
