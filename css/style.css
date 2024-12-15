@@ -316,11 +316,12 @@ section{
 .vetcare-team h3{
 	font-family: 'Poppins-Regular';
 	font-size: 23px;
-	padding-bottom: 10px;
+	margin-bottom: 20px;
 }
 .vetcare-team ul li{
 	text-align: center;
 	display: inline-block;
+	padding-right: 10px;
 	
 }
 .vetcare-team ul li a{
