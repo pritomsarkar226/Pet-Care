@@ -289,6 +289,20 @@ section{
 	color: #ffffff;
 	margin-bottom: 90px;
 }
+
+.vetcare-team-title h2{
+	font-family:'Poppins-Bold';
+	font-size: 60px;
+	text-align: center;
+	padding-bottom: 10px;
+
+}
+.vetcare-team-title h3{
+	font-family: 'Poppins-Regular';
+	font-size: 28px;
+	text-align: center;
+
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 	.wrap{
