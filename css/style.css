@@ -403,8 +403,11 @@ footer{
 	color: #ffffff ;
 	padding-bottom: 20px;
 }
-.footer-right{
-	float: ;
+.footer-section a h3{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 22px;
+	font-family: 'Poppins-Regular';
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
