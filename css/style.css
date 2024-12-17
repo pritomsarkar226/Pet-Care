@@ -73,7 +73,7 @@ table {
 section{
 	margin-bottom: 100px;
 }
-.container-fluid{
+.main-nav{
 	background: #daac00;
 }
 .nav-item a{
@@ -381,7 +381,31 @@ section{
 .recent-post-eliment{
 	padding-left: 10px;
 }
+footer{
+	background: #343434;
+}
+.footer-section{
+	padding-top: 120px;
+	padding-bottom: 120px;
 
+}
+.footer-section a{
+	text-decoration: none;
+}
+.footer li{
+	color: #ffffff;
+	font-size: 18px;
+	font-family: 'Poppins-Regular';
+	padding-bottom: 10px;
+}
+.footer-section a h2{
+	font-size: 32px;
+	color: #ffffff ;
+	padding-bottom: 20px;
+}
+.footer-right{
+	float: ;
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 	.wrap{
