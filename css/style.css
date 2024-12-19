@@ -413,6 +413,9 @@ footer{
 .footer li:hover{
 	color: rgb(0, 30, 255);
 }
+.searchTerm:hover{
+	background: #ffffff;
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 	.wrap{
