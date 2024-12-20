@@ -352,7 +352,7 @@ section{
 	border-left: 2px solid #d6d6d6;
 	border-right: 2px solid #d6d6d6;
 	border-bottom: 2px solid #d6d6d6;
-	margin-left:30px;
+	margin-left:px;
 	margin-right: 30px;
 }
 .recent-post img{
@@ -387,7 +387,6 @@ footer{
 .footer-section{
 	padding-top: 120px;
 	padding-bottom: 120px;
-
 }
 .footer-section a{
 	text-decoration: none;
@@ -445,6 +444,7 @@ footer{
 		font-size: 50px;
 		color: #313243;
 		padding-bottom: 40px;
+		margin-top: 20px;
 	}
 	.animal-love{
 		font-family: 'Poppins-Regular';
@@ -486,6 +486,10 @@ footer{
 		color: #ffffff;
 		font-size: 20px;
 		float: left;
+	}
+	.footer-section{
+		padding-top: 20px;
+		padding-bottom: 20px;
 	}
 }
 
