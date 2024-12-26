@@ -147,7 +147,7 @@ section{
   .right-button{
 	border: 2px solid #ffffff;
 	padding-top: 15px;
-	
+	padding-bottom: 15px;
 	border-radius: 10px;
 	background: none;
 	color: #ffffff;
